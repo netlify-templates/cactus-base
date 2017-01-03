@@ -1,0 +1,4 @@
+
+[build]
+  command = "cactus build"
+  publish = "/.build"
